@@ -1,0 +1,2 @@
+<li><a href="<?php echo e(route('colour_prediction',13)); ?>"><i class="fa fa-user orange_color"></i> <span>Andar Bahar</span></a></li>
+<?php /**PATH /home/u483840386/domains/globalbet24.club/public_html/root/resources/views/admin/body/andarbahar_sidebar.blade.php ENDPATH**/ ?>
